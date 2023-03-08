@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Puzzle Collection (main)",
+            "cwd": "packages/puzzle_aggregator",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
